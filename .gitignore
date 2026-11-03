@@ -1,0 +1,10 @@
+
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.db
+*.sqlite*
+chat_memory.json
+.streamlit/secrets.toml
